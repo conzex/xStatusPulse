@@ -1,0 +1,5 @@
+{
+  "name": "xStatusPulse",
+  "description": "A production-grade, reactive status page application for monitoring services, servers, and applications with a public view and admin dashboard.",
+  "requestFramePermissions": []
+}
